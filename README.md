@@ -1,9 +1,11 @@
-# Hotel-Management-System
+Hotel Management System
 
-## Overview
-This is a Java-based Hotel Management System developed to manage hotel operations efficiently through the reception desk.
+Overview
 
-## Features
+A Hotel Management System developed using Java Swing and MySQL to manage hotel operations efficiently. The system helps reception staff handle customer records, room bookings, check-ins, check-outs, and billing.
+
+Features
+
 - Customer Registration
 - Room Booking
 - Check-In Process
@@ -12,10 +14,21 @@ This is a Java-based Hotel Management System developed to manage hotel operation
 - Billing and Payment
 - Reception Management
 
-## Technologies Used
+Technologies Used
+
 - Java
+- Java Swing (GUI)
+- MySQL Database
+- JDBC Connectivity
 - Object-Oriented Programming (OOP)
 
-## Project Objective
-The project helps reception staff manage guest information, room allocation, and billing in an organized manner.
+Modules
 
+- Reception
+- Customer Management
+- Room Management
+- Billing System
+
+Project Objective
+
+The project aims to simplify hotel management by providing an easy-to-use desktop application for managing guests, rooms, and payments.
