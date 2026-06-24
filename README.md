@@ -1,2 +1,1 @@
 # Hotel-Management-System
-Student
